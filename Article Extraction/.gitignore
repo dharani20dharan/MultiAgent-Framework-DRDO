@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Logs and outputs
+out.log
+*.log
+
+# You can uncomment these if you don't want to upload large data files to GitHub:
+# *.jsonl
+# test_results.jsonl
+# preprocessed_sentences.jsonl
